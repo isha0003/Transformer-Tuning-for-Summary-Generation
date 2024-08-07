@@ -1,3 +1,5 @@
+##Transformer Tuning for Summary Generation
+
 In this project, I fine-tuned a transformer model for the task of summarization. The goal was to generate concise summaries of given articles or documents. Summarization can be performed in two main ways:
 
 1.Extractive Summarization: This method selected the most important sentences directly from the article to create a summary, ensuring that the summary consisted of exact sentences from the source.
