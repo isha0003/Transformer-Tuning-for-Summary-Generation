@@ -1,4 +1,4 @@
-##Transformer Tuning for Summary Generation
+# Transformer Tuning for Summary Generation
 
 In this project, I fine-tuned a transformer model for the task of summarization. The goal was to generate concise summaries of given articles or documents. Summarization can be performed in two main ways:
 
